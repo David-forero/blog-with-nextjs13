@@ -13,11 +13,11 @@ function StudioNavbar(props: any) {
         <div
           className="hidden md:flex p-5 rounded-lg justify-center border-2 border-[#F7AB0A]"
         >
-          <h1 className="font-bold Itext-white">
-            Want Coding challenges & Solutions sent to your inbox daily?
+          <h1 className="font-bold text-white">
+            Dashboard Area for Nightcode
           </h1>
           <Link
-            href="https://www.papareact.com/universityofcode"
+            href="/"
             className="text-[#F7AB0A] font-bold ml-2"
           >
             www.papareact.com/universityofcode

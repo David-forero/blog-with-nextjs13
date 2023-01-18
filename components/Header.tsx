@@ -8,7 +8,7 @@ const Header = (props: any) => {
         <Link href={"/"}>
           <Image
             className="rounded-full"
-            src="https://links.papareact.com/1m8"
+            src="https://res.cloudinary.com/nightcode/image/upload/v1674052718/NightCode/104495140_4221166977895288_4958381441344414260_n_vcsyuk.jpg"
             width={50}
             height={50}
             alt="logo"
@@ -20,10 +20,10 @@ const Header = (props: any) => {
 
       <div>
         <Link
-          href="https://www.papareact.com/universityofcode"
+          href="/"
           className="px-5 py-3 text-sm md:text-base bg-gray-900 text-[#F7AB0A] flex items-center rounded-full text-center"
         >
-          Sign up to the University of Code
+          Sign up
         </Link>
       </div>
     </header>

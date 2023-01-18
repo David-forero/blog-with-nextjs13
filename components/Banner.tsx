@@ -8,15 +8,15 @@ const Banner = () => {
         <h2 className="mt-5 md:mt-0">
           Welcom to{" "}
           <span className="underline decoration-4 decoration-[#F7AB0A]">
-            Every Developers
-          </span>
-          favorite blog in the devosphere
+            the adventures blog
+          </span>{" "}
+          for travels from Venezuela
         </h2>
       </div>
 
       <p className="mt-5 md:mt-2 text-gray-400 max-w-sm">
         New product features | The latest in technology | The weekly debugging
-        nightmares & More!u
+        nightmares & More!
       </p>
     </div>
   );
