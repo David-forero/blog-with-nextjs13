@@ -17,10 +17,10 @@ function StudioNavbar(props: any) {
             Dashboard Area for Nightcode
           </h1>
           <Link
-            href="/"
+            href="https://david-forero.github.io/portafolio/"
             className="text-[#F7AB0A] font-bold ml-2"
           >
-            www.papareact.com/universityofcode
+            david-forero.github.io/portafolio/
           </Link>
         </div>
       </div>
